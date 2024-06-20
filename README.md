@@ -12,4 +12,13 @@ Run the: FinancialApplication.jar
 If you want to use the source src then use: FinanceAppDriver.java
 
 
+Making executable .jar file
+You can quickly do it in IntelliJ following theses steps :
 
+Go to File > Project Structure
+Select Artifacts tab and click on the "+" icon
+Choose to generate a JAR from modules with dependencies
+Choose your module and its main class and save changes
+Now go to Build > build artifacts > build* 
+It's done, your executable .jar file should be located in out/artifacts/module_name/module.jar
+*Choose rebuild if it has already been built.
