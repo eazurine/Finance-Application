@@ -6,9 +6,7 @@ The Finance Management Application is designed to help users manage their person
 Project Setup:
 
 Download and install Java from: https://www.oracle.com/java/technologies/downloads/#jdk22-windows
-
 Run the: FinancialApplication.jar
-
 If you want to use the source src then use: FinanceAppDriver.java
 
 
